@@ -1,6 +1,6 @@
 # Pokemon Website
 
-Welcome to the Pokemon Website! This project, created by Arnab Manna, allows you to explore information about Pokemon using the Pokemon API. You can search for specific Pokemon, view their height, weight, and type, and even discover the Pokemon of the day on the front page.
+Welcome to the Pokemon Website! This React.js project, created by Arnab Manna, allows you to explore information about Pokemon using the Pokemon API. The user interface is designed with Tailwind CSS, providing a clean and responsive experience. You can search for specific Pokemon, view their height, weight, and type, and even discover the Pokemon of the day on the front page.
 
 ## Features
 
@@ -22,7 +22,19 @@ Welcome to the Pokemon Website! This project, created by Arnab Manna, allows you
     cd pokemon-website
     ```
 
-3. Open the `index.html` file in your web browser to access the Pokemon Website.
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+5. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Pokemon Website.
 
 ## Usage
 
@@ -42,8 +54,7 @@ This project utilizes the [Pokemon API](https://pokeapi.co/) to fetch informatio
 
 ## Credits
 
-- **Project by:** Arnab Manna
-
+- **Project by:** [Arnab Manna](https://arnab-portfolio-v2.vercel.app/)
 ## Contributing
 
 If you would like to contribute to the project, please follow these steps:
