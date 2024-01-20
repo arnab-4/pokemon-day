@@ -13,7 +13,7 @@ Welcome to the Pokemon Website! This React.js project, created by Arnab Manna, a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pokemon-website.git
+    git clone https://github.com/arnab-4/pokemon-day.git
     ```
 
 2. Navigate to the project directory:
