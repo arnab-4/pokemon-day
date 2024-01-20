@@ -1,0 +1,15 @@
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: all ease-out 0.2s;
+}
+
+.card__subtitle{
+    color: grey;
+    font-weight: 600;
+}
+
+.card__title{
+    color:  #282C35;
+    font-size: 1rem;
+    font-weight: 700;
+}
